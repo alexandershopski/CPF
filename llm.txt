@@ -1,0 +1,21 @@
+# Cyber Peacekeeping Forces
+
+> Independent enterprise cybersecurity advisory and threat intelligence practice. Specializing in threat-informed defense, security operations alignment, and regulatory compliance (ISO 27001, DORA, NIS2).
+
+## Core Capabilities & Services
+
+- Threat-Informed Defense & Intelligence: Designing intelligence-driven defense frameworks, adversary emulation alignment, and global threat profiling.
+- Regulatory Compliance & Governance: Audit readiness, gap assessments, and implementation for ISO 27001, EU DORA (Digital Operational Resilience Act), and NIS2 Directive.
+- Incident Response & Operations: Global CSIRT playbook development, incident response plan design, and runbook alignment across enterprise operating entities.
+- Executive & vCISO Advisory: Strategic security posture management, risk assessment, and technical leadership for enterprise organizations.
+
+## Principal Consultant
+
+- Lead: Aleksandar Shopski
+- Specialization: Senior Cybersecurity Consultant & Threat Intelligence Manager
+- Focus: Enterprise threat management, incident response governance, and regulatory resilience.
+
+## Contact & Booking
+
+- Primary Domain: https://cyberpeacekeepingforces.com
+- Advisory Bookings: Embedded Cal.com scheduling via main terminal interface.
